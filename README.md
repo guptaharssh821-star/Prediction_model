@@ -15,3 +15,26 @@ The application provides an interactive Streamlit interface where users can uplo
 4.View model evaluation metrics.
 
 4.Enter values to generate predictions.
+
+
+### ▶️ How to Run the Application
+
+1. Download or clone this repository from GitHub.
+
+2. Open the project folder in VS Code.
+
+3. Install the required libraries:
+
+   ```
+   pip install -r Requirement_.py
+   ```
+
+4. Run the Streamlit application:
+
+   ```
+   streamlit run f_6_Multi_Variate_General_pro_.py
+   ```
+
+5. Open the local URL shown in your terminal (usually `http://localhost:8501`) in your browser.
+
+**That's it!** Upload your CSV dataset, select the target column, train the model, and generate predictions.
